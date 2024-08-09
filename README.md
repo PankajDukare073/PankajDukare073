@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
 ## 🌟 About Me
 - 🌍 **Location:** Pune
 - 🧑‍💻 **Profession:** Full Stack Developer
-- 🔭 **Currently Working On:** AgriMart
+- 🔭 **Currently Working On:** AgroMart
 - 🌱 **Learning:** Spring Framework
 - 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/pankaj-dukare-10a408206/)
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
 - **Spring Framework:** ![Spring Core](https://img.shields.io/badge/-Spring%20Core-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring REST](https://img.shields.io/badge/-Spring%20REST-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring AOP](https://img.shields.io/badge/-Spring%20AOP-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Test](https://img.shields.io/badge/-Spring%20Test-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 - **Databases:** ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
-##hackerrank badge
+
 
 ## 💼 Projects
 
